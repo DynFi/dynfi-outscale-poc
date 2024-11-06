@@ -1,5 +1,3 @@
-#!/bin/sh
-
 source config/config.sh
 source config/colors.sh
 
