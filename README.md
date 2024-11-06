@@ -20,7 +20,7 @@ More informations at [DynFi Documentation](https://dynfi.com/documentations/dynf
 To demonstrate the POC, please run the following
 
 ``` sh
-git clone git@github.com:DynFi/dynfi-outscale-poc.git
+git clone https://git@github.com/DynFi/dynfi-outscale-poc.git
 cd dynfi-outscale-poc
 ./main.sh
 ```
